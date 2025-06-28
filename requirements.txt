@@ -1,0 +1,6 @@
+langgraph
+langchain-core
+langchain-groq  # New dependency for Groq
+python-dotenv
+graphviz
+rich
